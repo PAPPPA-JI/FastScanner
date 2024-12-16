@@ -59,7 +59,7 @@ go install -v github.com/Ayanrajpoot10/bughunter-go@v1.0.2
 # Clone the repository
 
  ```shell 
-git clone https://github.com/PapppaJi/FastScanner
+git clone https://github.com/PAPPPA-JI/FastScanner
 ```
 
 ## Usage 📌
