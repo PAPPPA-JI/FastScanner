@@ -29,9 +29,11 @@ pkg install python-pip -y
  ```shell 
 pkg install zlib -y
 ```
-
 ```shell
 pkg install git
+```
+```shell
+pip install tqdm
 ```
 ```shell
  pip install aiofiles rich aiohttp pytz bs4
@@ -81,4 +83,4 @@ example: /storage/emulated/0/domain.txt<br>
 **Design by**: PAPPPA JI<br>
 **Contact**: krishnxyz1@gmail.com<br>
 **Telegram**: [@PapppaJi](https://t.me/@PapppaJi)<br>
-**Version**: 1.1
+**Version**: 2.0
